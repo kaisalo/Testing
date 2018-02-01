@@ -5,4 +5,4 @@ Hello!
 Bye
 
 
-git@github.com:kaisalo/Testing.git
+Tatu Kalermo
